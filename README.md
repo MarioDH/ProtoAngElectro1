@@ -1,49 +1,27 @@
-# Welcome!!
-
-Master: [![Build Status](https://github.com/MarioDH/ProtoAngElectro1/branches=master)]
-
-Dev: [![Build Status](https://github.com/MarioDH/ProtoAngElectro1/branches=dev)]
-
 # ProtoAngElectro1
 
-Proyecto basado en Angular(5x) + Electron.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
-Para la implementación de Datos en tiempo real, a traves de API´s REST y WebSocket.
+## Development server
 
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-<a name="toc"/>
+## Code scaffolding
 
-## Table of Contents
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-[I. Documentation](#documentation)
+## Build
 
-[II. Release Notes](#release-notes)
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-[III. Collaboration Tools](#collaboration-tools)
+## Running unit tests
 
-[IV. Getting Started](#getting-started)
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-[V. Testing the Application](#testing)
+## Running end-to-end tests
 
-[VI. Limitation ( Bugs)](#dev-tools)
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-[VIII. Contribution Information](#contribution-info)
+## Further help
 
-[IX. Troubleshooting](#troubleshooting)
-
----
-<a name="documentation"/>
-
-
-## [I.  Documentation](documentation.md)
-
-
-<a name="documentation"/>
----
-<a name="release-notes"/>
-
-
-## [II. Release Notes](ReleaseNotes.md)
-
-
-<a name="documentation"/>
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
